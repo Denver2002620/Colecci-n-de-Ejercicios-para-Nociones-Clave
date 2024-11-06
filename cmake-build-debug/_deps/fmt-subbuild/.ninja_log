@@ -1,0 +1,21 @@
+# ninja log v6
+1	36	7526307678899680	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	4c23079919d14bde
+1	36	7526307678899680	C:/Users/Usuario/Documents/GitHub/Colecci-n-de-Ejercicios-para-Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-mkdir	4c23079919d14bde
+36	3295	7526307711480094	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	46b4fb95a008e2e4
+36	3295	7526307711480094	C:/Users/Usuario/Documents/GitHub/Colecci-n-de-Ejercicios-para-Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-download	46b4fb95a008e2e4
+3296	3395	7526307711520050	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	b87e1f08e12b2f69
+3296	3395	7526307711520050	C:/Users/Usuario/Documents/GitHub/Colecci-n-de-Ejercicios-para-Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-update	b87e1f08e12b2f69
+3395	3433	7526307712865917	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	c65f6d1dd7a21d18
+3395	3433	7526307712865917	C:/Users/Usuario/Documents/GitHub/Colecci-n-de-Ejercicios-para-Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-patch	c65f6d1dd7a21d18
+3433	3481	7526307713338757	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	f7596d2fa6581f6b
+3433	3481	7526307713338757	C:/Users/Usuario/Documents/GitHub/Colecci-n-de-Ejercicios-para-Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-configure	f7596d2fa6581f6b
+3481	3514	7526307713673340	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	145af18a44911fd6
+3481	3514	7526307713673340	C:/Users/Usuario/Documents/GitHub/Colecci-n-de-Ejercicios-para-Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-build	145af18a44911fd6
+3514	3542	7526307713961519	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	eae9468ddd215e58
+3514	3542	7526307713961519	C:/Users/Usuario/Documents/GitHub/Colecci-n-de-Ejercicios-para-Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-install	eae9468ddd215e58
+3543	3573	7526307714267548	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	3e368f52b63742f7
+3543	3573	7526307714267548	C:/Users/Usuario/Documents/GitHub/Colecci-n-de-Ejercicios-para-Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-test	3e368f52b63742f7
+3574	3614	7526307714676315	CMakeFiles/fmt-populate-complete	767ebbbd939f1f57
+3574	3614	7526307714676315	fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	767ebbbd939f1f57
+3574	3614	7526307714676315	C:/Users/Usuario/Documents/GitHub/Colecci-n-de-Ejercicios-para-Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/CMakeFiles/fmt-populate-complete	767ebbbd939f1f57
+3574	3614	7526307714676315	C:/Users/Usuario/Documents/GitHub/Colecci-n-de-Ejercicios-para-Nociones-Clave/cmake-build-debug/_deps/fmt-subbuild/fmt-populate-prefix/src/fmt-populate-stamp/fmt-populate-done	767ebbbd939f1f57
